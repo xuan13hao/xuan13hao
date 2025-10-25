@@ -46,7 +46,7 @@ I'm a **PhD Candidate** working at the intersection of **Deep learning**, **Mach
 </div>
 
 ### 🧰 Skills
-`Python` • `C++` • `PyTorch` • `FAISS` • `LangChain` • `QIIME2` • `DESeq2` • `HPC` • `Docker` • `Git`
+`Python` • `C++` • `PyTorch` • `RAG` • `LoRA` •`LangChain` • `AI Agents` • `System Architecture` • `HPC` • `Docker` • `Git`
 
 ---
 
