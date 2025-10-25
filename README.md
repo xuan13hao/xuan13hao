@@ -46,12 +46,6 @@ I'm a **PhD Candidate** working at the intersection of **Bioinformatics**, **Mac
 </div>
 
 ---
-
-### 🧩 Publications & Ongoing Work
-- **A Unified Algorithmic Framework for Biological Sequence Alignment** (2025, manuscript)  
-- **Ketamine-induced cystitis and the gut–bladder axis** (Scientific Reports, in revision)  
-- **K-mer embeddings for predicting NSCLC immunotherapy outcomes** (in prep.)
-
 ---
 
 ### 🧰 Skills
