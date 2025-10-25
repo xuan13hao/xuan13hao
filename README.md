@@ -7,12 +7,12 @@
   <a href="https://github.com/xuan13hao">
     <img src="https://img.shields.io/github/followers/xuan13hao?label=Followers&style=for-the-badge" />
   </a>
-  <a href="mailto:xuan13hao@gmail.com">
+  <!-- <a href="mailto:xuan13hao@gmail.com">
     <img src="https://img.shields.io/badge/Contact-xuan13hao%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Hao%20Xuan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  </a> -->
 </div>
 
 ---
