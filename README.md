@@ -44,7 +44,6 @@ I'm a **PhD Candidate** working at the intersection of **Deep learning**, **Mach
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
 </div>
----
 
 ### 🧰 Skills
 `Python` • `C++` • `PyTorch` • `FAISS` • `LangChain` • `QIIME2` • `DESeq2` • `HPC` • `Docker` • `Git`
