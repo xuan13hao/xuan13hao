@@ -1,6 +1,6 @@
 <!-- Intro Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=0D8ABC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hao+Xuan;Bioinformatics+%7C+AI+%7C+Software+Engineer;Building+Versatile+Alignment+Toolkit+(VAT);Transforming+LLMs+for+Cancer+%26+Microbiome+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=0D8ABC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hao;Bioinformatics+%7C+AI+%7C+Software+Engineer;Building+Versatile+Alignment+Toolkit+(VAT);Transforming+LLMs+for+Cancer+%26+Microbiome+Research" alt="Typing SVG" />
 
   <br/>
 
