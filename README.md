@@ -18,7 +18,7 @@
 ---
 
 ### 🧠 About Me
-I'm a **PhD Candidate** working at the intersection of **Bioinformatics**, **Machine Learning**, and **AI-assisted Medicine**.
+I'm a **PhD Candidate** working at the intersection of **Deep learning**, **Machine Learning**,  **AI Agents**, and **AI-assisted Medicine**.
 
 - 🧬 Developer of **VAT (Versatile Alignment Toolkit)** — a unified framework for DNA/RNA/protein alignment  
 - 🧫 Exploring **microbiome–cancer** interactions and **immunotherapy response prediction**  
