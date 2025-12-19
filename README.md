@@ -29,8 +29,9 @@ I'm a **PhD Candidate** working at the intersection of **Deep learning**, **Mach
 
 ### 🚀 Featured Projects
 | Project | Description | Tech |
-|----------|--------------|------|
+|--------|-------------|------|
 | [**VAT**](https://github.com/xuan13hao/VAT) | Fast and flexible short/long read aligner for DNA and Protein | C++, SIMD, DP |
+| [**ai_qt_stock**](https://github.com/xuan13hao/ai_qt_stock) | AI-powered quantitative trading platform for US stocks with intelligent decision-making agents | Python, Alpaca API, LLMs |
 | [**data_analysis**](https://github.com/xuan13hao/data_analysis) | ML and statistical pipelines for microbiome data | Python, sklearn, R |
 | [**unsloth**](https://github.com/xuan13hao/unsloth) | Fine-tuned LLaMA & Mistral models with 2–5× speedup | PyTorch, HuggingFace |
 | [**Microbiomformer**](https://github.com/xuan13hao/microbiomformer) | Microbiota foundation model | PyTorch, HuggingFace |
