@@ -22,7 +22,7 @@ I'm a **PhD Candidate** working at the intersection of **Deep learning**, **Mach
 
 - Developer of **VAT (Versatile Alignment Toolkit)** — a unified framework for DNA/RNA/protein alignment  
 - Exploring **microbiome–cancer** interactions and **immunotherapy response prediction**  
-- Building **LLM-based biomedical QA systems** and **Drug repurposing tools**
+- Building **LLM-based biomedical multiple agents systems** and **Drug repurposing tools**
 - Building AI-powered quantitative trading platform for US stocks with intelligent decision-making agents  
 - Passionate about optimization, open-source software, and scientific reproducibility  
 
