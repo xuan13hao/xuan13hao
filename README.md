@@ -32,11 +32,11 @@ I'm a **PhD Candidate** working at the intersection of **Deep learning**, **Mach
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**VAT**](https://github.com/xuan13hao/VAT) | Fast and flexible short/long read aligner for DNA and Protein | C++, SIMD, DP |
-| [**AI Quantitative Trading System**](https://github.com/xuan13hao/ai_qt_stock) | AI-powered quantitative trading platform for US stocks with intelligent decision-making agents | Python, Alpaca API, LLMs |
-| [**Citation Agents System**](https://github.com/xuan13hao/citation_agents_system) | A multi-stage high-accuracy sentence matching system for biomedical literature| Python, LLMs, HuggingFace |
+| [**LLM-based Quantitative Trading**](https://github.com/xuan13hao/ai_qt_stock) | AI-powered quantitative trading platform for US stocks with intelligent decision-making agents | Python, Alpaca API, LLMs |
+| [**CitationAgentsSystem**](https://github.com/xuan13hao/citation_agents_system) | A multi-stage high-accuracy sentence matching system for biomedical literature| Python, LLMs, HuggingFace |
 | [**unsloth**](https://github.com/xuan13hao/unsloth) | Fine-tuned LLaMA & Mistral models with 2–5× speedup | PyTorch, HuggingFace |
 | [**Microbiomformer**](https://github.com/xuan13hao/microbiomformer) | Microbiota foundation model | PyTorch, HuggingFace |
-| [**Single-cell RNA-sequencing analysis pipeline**](https://github.com/xuan13hao/scVAT) |Single-Cell RNA-seq Analysis Pipeline| Python, nextflow |
+| [**scVAT**](https://github.com/xuan13hao/scVAT) |Single-Cell RNA-seq Analysis Pipeline| Python, nextflow |
 ---
 
 ### 📊 GitHub Stats
