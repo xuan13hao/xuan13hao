@@ -4,12 +4,14 @@
 </p>
 
 <p align="center">
-  <i>Building AI for biomedicine — where sequence, structure, and imaging data all talk to each other.</i>
+  <a href="https://github.com/xuan13hao">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D8ABC&center=true&vCenter=true&width=720&lines=Bioinformatics+%2B+Transformers+%2B+Multimodal+AI;Computer+Vision+for+X-ray+%26+Medical+Imaging;LLM+Multi-Agent+Systems+for+Biomedicine;Drug+Repurposing+%26+Immunotherapy+Response" alt="Typing SVG" />
+  </a>
 </p>
 
 <hr>
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> About Me
 
 I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer architectures**, **Multimodal AI**, and **AI for Biomedicine**. My background is in computational biology and genomics — I design algorithms and models where sequence, structure, and imaging data all need to talk to each other.
 
