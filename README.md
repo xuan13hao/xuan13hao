@@ -91,7 +91,11 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake.svg" />
+  </picture>
 </p>
 
 <hr>
