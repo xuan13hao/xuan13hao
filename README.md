@@ -5,7 +5,6 @@
 
 <br/>
 
-<a href="mailto:xuanhao@iu.edu"><img alt="Email" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" /></a>
 <a href="https://www.linkedin.com/" target="blank"><img alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 <a href="https://scholar.google.com/" target="blank"><img alt="Google Scholar" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" /></a>
 
