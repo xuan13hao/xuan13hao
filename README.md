@@ -11,34 +11,6 @@
 
 <hr>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> About Me
-
-<table>
-<tr>
-<td valign="top" width="62%">
-
-I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer architectures**, **Multimodal AI**, and **AI for Biomedicine**. My background is in computational biology and genomics — I design algorithms and models where sequence, structure, and imaging data all need to talk to each other.
-
-- 🧬 **Bioinformatics-trained** — sequence alignment, single-cell genomics, microbiome analysis, and HPC pipelines ground everything I build
-- 🤖 Designing and fine-tuning **Transformer-based models** (LLMs, ViTs, multimodal encoders) for biomedical reasoning
-- 🔗 Building **multimodal AI systems** that fuse imaging, text, and omics data for clinical decision support
-- 🩻 Applying **Computer Vision to X-ray and medical imaging** — detection, segmentation, and diagnosis support
-- 🧫 Exploring **microbiome–cancer interactions** and **immunotherapy response prediction**
-- 🧠 Building **LLM-based biomedical multi-agent systems** and **drug repurposing tools**
-- 📈 Building an AI-powered **quantitative trading platform** for US stocks with intelligent decision-making agents
-- ♻️ Passionate about optimization, open-source software, and scientific reproducibility
-
-</td>
-<td valign="top" width="38%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding" />
-
-</td>
-</tr>
-</table>
-
-<hr>
-
 ## 🔬 Research Focus
 
 <table>
