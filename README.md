@@ -74,32 +74,6 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 
 <hr>
 
-## 📊 GitHub Stats
-
-<!-- Using the public github-readme-stats instance. It is occasionally rate-limited
-     (shows a broken image); for a 100% reliable version, self-host your own fork on
-     Vercel and swap the two vercel.app hosts below for your own app name. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuan13hao&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xuan13hao&theme=tokyonight&hide_border=true" height="160px" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
-</div>
-
-<hr>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake.svg" />
-  </picture>
-</p>
-
-<hr>
-
 ## ☕ Let's Connect
 
 💬 Open to collaborations in **Bioinformatics × Transformer & Multimodal AI × Medical Imaging × Clinical Applications**
