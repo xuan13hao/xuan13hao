@@ -1,20 +1,3 @@
-<!-- Header -->
-<p align="center">
-
-<img width="800px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D8ABC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hao+%F0%9F%91%8B;Bioinformatics+%2B+Transformers+%2B+Multimodal+AI;Computer+Vision+for+X-ray+%26+Medical+Imaging;Building+AI+for+Biomedicine" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/" target="blank"><img alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-<a href="https://scholar.google.com/" target="blank"><img alt="Google Scholar" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" /></a>
-
-<br/>
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=xuan13hao&color=0D8ABC&style=flat-square&label=Profile+Views)
-
-</p>
-
 ```yaml
 name: Hao Xuan
 role: PhD · Computational Biology & AI for Biomedicine
