@@ -76,14 +76,14 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 
 ## 📊 GitHub Stats
 
-<!-- Self-hosted github-readme-stats instance (public instance was rate-limited).
-     After deploying your own fork to Vercel, replace YOUR_VERCEL_APP below with
-     your Vercel app name, e.g. github-readme-stats-xuan13hao -->
+<!-- Using the public github-readme-stats instance. It is occasionally rate-limited
+     (shows a broken image); for a 100% reliable version, self-host your own fork on
+     Vercel and swap the two vercel.app hosts below for your own app name. -->
 <div align="center">
-  <img src="https://YOUR_VERCEL_APP.vercel.app/api?username=xuan13hao&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xuan13hao&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xuan13hao&theme=tokyonight&hide_border=true" height="160px" />
   <br/>
-  <img src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
 </div>
 
 <hr>
