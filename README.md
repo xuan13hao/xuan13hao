@@ -1,14 +1,25 @@
+<!-- Header banner (same capsule-render service as the footer — reliable, no rate-limited stats) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D8ABC,100:6A11CB&height=200&section=header&text=Hao%20Xuan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=PhD%20%C2%B7%20Bioinformatics%20%C3%97%20Multimodal%20AI%20%C3%97%20Medical%20Imaging&descSize=18&descAlignY=60&animation=fadeIn" alt="Hao Xuan" />
+</p>
+
+<p align="center">
+  <i>Building AI for biomedicine — where sequence, structure, and imaging data all talk to each other.</i>
+</p>
+
+<hr>
+
 ## 👋 About Me
 
 I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer architectures**, **Multimodal AI**, and **AI for Biomedicine**. My background is in computational biology and genomics — I design algorithms and models where sequence, structure, and imaging data all need to talk to each other.
 
-- 🧬 **Bioinformatics-trained**: sequence alignment, single-cell genomics, microbiome analysis, and high-performance computational pipelines are where I started, and still ground everything I build
-- 🤖 Designing and fine-tuning **Transformer-based models** (LLMs, ViTs, multimodal encoders) for biomedical reasoning and sequence/structure understanding
+- 🧬 **Bioinformatics-trained** — sequence alignment, single-cell genomics, microbiome analysis, and HPC pipelines ground everything I build
+- 🤖 Designing and fine-tuning **Transformer-based models** (LLMs, ViTs, multimodal encoders) for biomedical reasoning
 - 🔗 Building **multimodal AI systems** that fuse imaging, text, and omics data for clinical decision support
-- 🩻 Applying **Computer Vision to X-ray and medical imaging** — detection, segmentation, and diagnosis-support pipelines
+- 🩻 Applying **Computer Vision to X-ray and medical imaging** — detection, segmentation, and diagnosis support
 - 🧫 Exploring **microbiome–cancer interactions** and **immunotherapy response prediction**
 - 🧠 Building **LLM-based biomedical multi-agent systems** and **drug repurposing tools**
-- 📈 Building an AI-powered quantitative trading platform for US stocks with intelligent decision-making agents
+- 📈 Building an AI-powered **quantitative trading platform** for US stocks with intelligent decision-making agents
 - ♻️ Passionate about optimization, open-source software, and scientific reproducibility
 
 <hr>
@@ -30,12 +41,29 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 
 <div align="center">
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**ML / Deep Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Tools & Infra**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
 
 `Transformers` • `Multimodal AI` • `Computer Vision (X-ray / Medical Imaging)` • `Bioinformatics` • `RAG` • `LoRA` • `LangChain` • `AI Agents` • `System Architecture` • `HPC`
 
@@ -45,9 +73,14 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 
 ## ☕ Let's Connect
 
-💬 Open to collaborations in **Bioinformatics × Transformer & Multimodal AI × Medical Imaging × Clinical Applications**
-🐾 Fun fact: My coding speed rivals my husky's running speed.
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+💬 Open to collaborations in **Bioinformatics × Transformer & Multimodal AI × Medical Imaging × Clinical Applications**
+
+🐾 Fun fact: my coding speed rivals my husky's running speed.
+
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:0D8ABC&height=100&section=footer" alt="footer" />
+</p>
