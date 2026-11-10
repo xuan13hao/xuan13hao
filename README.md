@@ -1,20 +1,34 @@
 <!-- Header -->
-<div align="center">
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D8ABC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hao+%F0%9F%91%8B;Bioinformatics+%2B+Transformers+%2B+Multimodal+AI;Computer+Vision+for+X-ray+%26+Medical+Imaging;Building+AI+for+Biomedicine" alt="Typing SVG" />
+<img width="800px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D8ABC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hao+%F0%9F%91%8B;Bioinformatics+%2B+Transformers+%2B+Multimodal+AI;Computer+Vision+for+X-ray+%26+Medical+Imaging;Building+AI+for+Biomedicine" alt="Typing SVG" />
 
+<br/>
+
+<a href="mailto:xuanhao@iu.edu"><img alt="Email" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+<a href="https://scholar.google.com/" target="blank"><img alt="Google Scholar" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" /></a>
+
+<br/>
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xuan13hao&color=0D8ABC&style=flat-square&label=Profile+Views)
-<!--
-<a href="https://github.com/xuan13hao"><img src="https://img.shields.io/github/followers/xuan13hao?label=Followers&style=flat-square" /></a>
-<a href="mailto:xuan13hao@gmail.com"><img src="https://img.shields.io/badge/Contact-xuan13hao%40gmail.com-red?style=flat-square&logo=gmail" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Hao%20Xuan-blue?style=flat-square&logo=linkedin" /></a>
--->
 
-</div>
+</p>
 
-<br/>
+```yaml
+name: Hao Xuan
+role: PhD · Computational Biology & AI for Biomedicine
+located_in: [Indiana, USA]
+currently_working_on: ["LLM-based biomedical multi-agent systems", "Drug repurposing tools"]
+technical_background: ["Bioinformatics", "Transformer architectures", "Multimodal AI", "Computer Vision"]
+currently_learning: ["Multimodal fusion of imaging + text + omics", "Vision Transformers for medical imaging"]
+ask_me_about: ["Sequence alignment", "Single-cell RNA-seq", "Microbiome analysis", "LLMs / ViTs", "HPC pipelines"]
+tools: ["Python", "C++", "PyTorch", "HuggingFace", "LangChain", "Docker"]
+fun_fact: "My coding speed rivals my husky's running speed 🐾"
+```
+
+<hr>
 
 ## 👋 About Me
 
@@ -29,7 +43,7 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 - 📈 Building an AI-powered quantitative trading platform for US stocks with intelligent decision-making agents
 - ♻️ Passionate about optimization, open-source software, and scientific reproducibility
 
-<br/>
+<hr>
 
 ## 🔬 Research Focus
 
@@ -42,7 +56,7 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 </tr>
 </table>
 
-<br/>
+<hr>
 
 ## 🧰 Tech Stack
 
@@ -59,7 +73,15 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 
 </div>
 
-<br/>
+<hr>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xuan13hao&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<hr>
 
 ## 📊 GitHub Stats
 
@@ -70,7 +92,15 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
 </div>
 
-<br/>
+<hr>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/xuan13hao/xuan13hao/output/github-snake-dark.svg" />
+</p>
+
+<hr>
 
 ## ☕ Let's Connect
 
