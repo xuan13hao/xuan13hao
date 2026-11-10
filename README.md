@@ -74,21 +74,16 @@ I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer arc
 
 <hr>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xuan13hao&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
-<hr>
-
 ## 📊 GitHub Stats
 
+<!-- Self-hosted github-readme-stats instance (public instance was rate-limited).
+     After deploying your own fork to Vercel, replace YOUR_VERCEL_APP below with
+     your Vercel app name, e.g. github-readme-stats-xuan13hao -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuan13hao&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://YOUR_VERCEL_APP.vercel.app/api?username=xuan13hao&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xuan13hao&theme=tokyonight&hide_border=true" height="160px" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
+  <img src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=xuan13hao&layout=compact&theme=tokyonight&hide_border=true" height="140px" />
 </div>
 
 <hr>
