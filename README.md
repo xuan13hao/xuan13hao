@@ -1,17 +1,3 @@
-```yaml
-name: Hao Xuan
-role: PhD · Computational Biology & AI for Biomedicine
-located_in: [Indiana, USA]
-currently_working_on: ["LLM-based biomedical multi-agent systems", "Drug repurposing tools"]
-technical_background: ["Bioinformatics", "Transformer architectures", "Multimodal AI", "Computer Vision"]
-currently_learning: ["Multimodal fusion of imaging + text + omics", "Vision Transformers for medical imaging"]
-ask_me_about: ["Sequence alignment", "Single-cell RNA-seq", "Microbiome analysis", "LLMs / ViTs", "HPC pipelines"]
-tools: ["Python", "C++", "PyTorch", "HuggingFace", "LangChain", "Docker"]
-fun_fact: "My coding speed rivals my husky's running speed 🐾"
-```
-
-<hr>
-
 ## 👋 About Me
 
 I'm a **PhD** working at the crossroads of **Bioinformatics**, **Transformer architectures**, **Multimodal AI**, and **AI for Biomedicine**. My background is in computational biology and genomics — I design algorithms and models where sequence, structure, and imaging data all need to talk to each other.
